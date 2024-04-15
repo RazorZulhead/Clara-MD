@@ -48,7 +48,7 @@ global.APIs = {
 
 /Apikey/
 global.APIKeys = {
-    "": "rLEnsQmkfP59QY8",
+    "https://api.fgmods.xyz": "wjNeuuyTNL",
 }
 
 let file = fileURLToPath(import.meta.url)
