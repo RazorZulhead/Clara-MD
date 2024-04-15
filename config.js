@@ -6,21 +6,21 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['6285759166799', 'BigHead', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '628xxx'
+global.nomorwa = '6285759166799'
 global.packname = 'anu - MD by'
-global.author = '© Xyroinee'
-global.namebot = '​anu - MD'
+global.author = '© RazorZulhead'
+global.namebot = '​bot'
 global.wm = '© anu By Xyroine'
 global.stickpack = 'anu - MD by'
 global.stickauth = '© Xyroine'
-global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
+global.fotonya = 'https://i.ibb.co/F5GCQ5D/20240413-231217.jpg'
 // Link Sosmed
-global.sig = 'https://www.instagram.com/xyroinee'
+global.sig = '/'
 global.sgh = 'https://github.com/Xyroinee'
 global.sgc = 'https://chat.whatsapp.com/'
 // Donasi
@@ -48,7 +48,7 @@ global.APIs = {
 
 /Apikey/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "apikeymu",
+    "": "rLEnsQmkfP59QY8",
 }
 
 let file = fileURLToPath(import.meta.url)
